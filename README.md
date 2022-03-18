@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://discord.gg/DfGvMBbMyp"><img src="https://i.imgur.com/opo3CXn.gif" alt="Zard Community"></a>
+  <a href="https://discord.gg/DfGvMBbMyp"></a>
   <br>
   Lunar Website Clone
   <br>
